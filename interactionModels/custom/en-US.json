@@ -1,0 +1,74 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "millburn deli",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "SOTMIntent",
+          "slots": [],
+          "samples": [
+            "sandwich of the day at millburn deli",
+            "sandwich of the month",
+            "this month\u0027s sandwich",
+            "special sandwich",
+            "special",
+            "today\u0027s special",
+            "something different"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "HoursIntent",
+          "slots": [],
+          "samples": [
+            "are open today",
+            "about their hours",
+            "is millburn deli open today",
+            "what are millburn deli\u0027s hours",
+            "when does millburn deli open",
+            "what are your hours",
+            "is millburn deli open",
+            "what are your hours today"
+          ]
+        },
+        {
+          "name": "LocationsIntent",
+          "slots": [],
+          "samples": [
+            "where they are",
+            "where they are located",
+            "what their locations are",
+            "about their locations",
+            "where do i eat",
+            "where is the restaurant",
+            "where do i go",
+            "where is the deli",
+            "where are you",
+            "where is millburn deli ",
+            "where are your locations",
+            "where are you located",
+            "what locations do you have",
+            "locations"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "7"
+}
